@@ -16,7 +16,7 @@
         <name>StaticResource</name>
     </types>
     <types> 
-    	<!-- Mocha Test Runner  -->
+    	        <!-- Mocha Test Runner  -->
   	  	<members>MochaTestRunner</members>
   	  	<!-- Jasmine Test Runner  -->
 		<members>JasmineTestRunner</members>	
