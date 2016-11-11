@@ -20,6 +20,8 @@
   	  	<members>MochaTestRunner</members>
   	  	<!-- Jasmine Test Runner  -->
 		<members>JasmineTestRunner</members>	
+		<!-- Sample component to be tested -->
+		<members>cmpUnderTest1</members>
 		<name>AuraDefinitionBundle</name>
 	</types>
     <version>36.0</version>
